@@ -14,7 +14,6 @@
 		0B6DF91F1B596CF50077979F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B6DF91E1B596CF50077979F /* Images.xcassets */; };
 		0B6DF9221B596CF50077979F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B6DF9201B596CF50077979F /* LaunchScreen.xib */; };
 		0B6DF92E1B596CF50077979F /* SwappersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6DF92D1B596CF50077979F /* SwappersTests.swift */; };
-		0B6DF9381B5971DC0077979F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 0B6DF9371B5971DC0077979F /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +38,6 @@
 		0B6DF9271B596CF50077979F /* SwappersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwappersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B6DF92C1B596CF50077979F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0B6DF92D1B596CF50077979F /* SwappersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwappersTests.swift; sourceTree = "<group>"; };
-		0B6DF9371B5971DC0077979F /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,7 +86,6 @@
 				0B6DF91E1B596CF50077979F /* Images.xcassets */,
 				0B6DF9201B596CF50077979F /* LaunchScreen.xib */,
 				0B6DF9131B596CF50077979F /* Supporting Files */,
-				0B6DF9371B5971DC0077979F /* .gitignore */,
 			);
 			path = Swappers;
 			sourceTree = "<group>";
@@ -198,7 +195,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0B6DF9381B5971DC0077979F /* .gitignore in Resources */,
 				0B6DF91D1B596CF50077979F /* Main.storyboard in Resources */,
 				0B6DF9221B596CF50077979F /* LaunchScreen.xib in Resources */,
 				0B6DF91F1B596CF50077979F /* Images.xcassets in Resources */,
@@ -419,6 +415,7 @@
 				0B6DF9331B596CF50077979F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0B6DF9341B596CF50077979F /* Build configuration list for PBXNativeTarget "SwappersTests" */ = {
 			isa = XCConfigurationList;
@@ -427,6 +424,7 @@
 				0B6DF9361B596CF50077979F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

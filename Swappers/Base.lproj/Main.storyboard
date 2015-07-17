@@ -59,7 +59,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="pGI-me-muj" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-576" y="1259"/>
+            <point key="canvasLocation" x="-585" y="1259"/>
         </scene>
         <!--Statistics-->
         <scene sceneID="q16-4f-39N">
@@ -118,7 +118,6 @@
         <!--Tab Bar Controller-->
         <scene sceneID="yl2-sM-qoP">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="HuB-VB-40B" sceneMemberID="firstResponder"/>
                 <tabBarController id="49e-Tb-3d3" sceneMemberID="viewController">
                     <navigationItem key="navigationItem" id="PtW-4A-oPP"/>
                     <nil key="simulatedBottomBarMetrics"/>
@@ -135,6 +134,7 @@
                         <segue destination="k5A-Ra-nsf" kind="relationship" relationship="viewControllers" id="NDU-9N-iZ4"/>
                     </connections>
                 </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="HuB-VB-40B" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-585" y="222"/>
         </scene>
